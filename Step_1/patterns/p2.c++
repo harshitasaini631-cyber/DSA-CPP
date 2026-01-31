@@ -16,3 +16,9 @@ int main(){
     cin >> n;
     print(n);
 }
+
+/*git status
+git add patterns/p2.c++
+git commit -m "Update pattern 2 using function"
+git push
+ */
